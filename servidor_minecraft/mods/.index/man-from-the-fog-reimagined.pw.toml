@@ -1,0 +1,17 @@
+filename = 'man-from-the-fog-0.6.3.jar'
+name = 'Man From The Fog Reimagined'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.6.3'
+
+[download]
+hash = '06fa62cc3701a244b9c1408c73e668deb4cf8e2172f80846baf18554d3cb8b5a9858d695d60a37309b02cbe86ed3caba7f5259c68bdeb672079ff6503e3e8224'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jac2HdQt/versions/cEB2c0mu/man-from-the-fog-0.6.3.jar'
+
+[update.modrinth]
+mod-id = 'jac2HdQt'
+version = 'cEB2c0mu'
